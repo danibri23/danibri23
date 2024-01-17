@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **carlosbrizuelamereles@gmail.com**
 
+![](https://komarev.com/ghpvc/?username=danibri23&color=green)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/daniel-brizuela-315b58145/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniel-brizuela-315b58145/" height="30" width="40" /></a>

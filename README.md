@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Brizuela</h1>
 <h3 align="center">Hello ! I`m a programmer who loves new challenges and solving problems, working as a web developer and Cloud engineer with AWS.</h3>
 
-- 🌱 I’m currently learning **MicroFrontend and React.js with Material UI**
+- 🌱 I’m currently learning **MicroFrontend and React with Material UI**
 
 - 📫 How to reach me **carlosbrizuelamereles@gmail.com**
 
